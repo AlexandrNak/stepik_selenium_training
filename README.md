@@ -1,1 +1,1 @@
-# stepik_selenium_training
+https://stepik.org/course/575/promo
